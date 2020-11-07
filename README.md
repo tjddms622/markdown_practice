@@ -38,4 +38,21 @@ this is my `first`
  가로선은"---"이다
 
  [my link](https://www.google.com/search?newwindow=1&sxsrf=ALeKk00UlpL08afbZqmGoF2purVSPNifdA%3A1604764781974&ei=bcSmX8v2OoaJmAWd5riAAw&q=%EA%B9%83%ED%97%88%EB%B8%8C&oq=%EA%B9%83%ED%97%88%EB%B8%8C&gs_lcp=CgZwc3ktYWIQAzIECCMQJzIECCMQJzIECCMQJzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BQgAELEDUK0OWMAUYK0VaAFwAHgBgAFuiAGjBZIBAzYuMZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwiL4ZvW5vDsAhWGBKYKHR0zDjAQ4dUDCA0&uact=5)
- ![이미지가 안보일때 텍스트]
+
+ ![이미지가 안보일때 텍스트](py.PNG)
+
+ ### table
+ |행|행|
+ |---|---|
+ |구분자 --는 필수|열|
+ |열|열|
+
+ ```c
+ #include <stdio.h>
+
+int main(){
+	printf("hello world\n");
+}
+//```c -> c언어 잘보이게
+ ```
+ - [x] ??
